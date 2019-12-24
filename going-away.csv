@@ -1,0 +1,25 @@
+﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+section,Pre-travel
+task,Wash dishes
+task,Eat perishable food
+task,Put boiler on frost mode
+section,Clothes
+task,Underwear
+task,Socks
+task,Trousers
+task,Shirts
+task,PJs
+task,Hat
+task,Gloves
+task,Scarf
+task,Sunglasses
+section,Electronics
+task,Laptop and charger
+=task,Phone and charger
+task,Power bank
+task,Headphones
+section,Miscellaneous
+task,Passport
+task,Glasses cloth
+task,Notebook
+task,Pen
