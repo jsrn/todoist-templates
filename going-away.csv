@@ -3,6 +3,8 @@ section,Pre-travel
 task,Wash dishes
 task,Eat perishable food
 task,Put boiler on frost mode
+task,Download area on google maps
+task,Decide whether you need a local data sim
 section,Clothes
 task,Underwear
 task,Socks
@@ -18,8 +20,16 @@ task,Laptop and charger
 task,Phone and charger
 task,Power bank
 task,Headphones
+section,Toiletries
+task,Nail clippers
+task,Tiny scissors
+task,Nip-fab
+task,Oil cleanser
+task,Foaming cleanser
+task,Mini deodorant
 section,Miscellaneous
 task,Passport
 task,Glasses cloth
 task,Notebook
 task,Pen
+task,Handkerchief
