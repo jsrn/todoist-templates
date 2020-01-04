@@ -1,36 +1,36 @@
-﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
-section,Pre-travel
-task,Wash dishes
-task,Eat perishable food
-task,Put boiler on frost mode
-task,Download area on google maps
-task,Decide whether you need a local data sim
-section,Clothes
-task,Underwear
-task,Socks
-task,Trousers
-task,Shirts
-task,PJs
-task,Hat
-task,Gloves
-task,Scarf
-task,Sunglasses
-section,Electronics
-task,Laptop and charger
-task,Phone and charger
-task,Power bank
-task,Headphones
-section,Toiletries
-task,Nail clippers
-task,Tiny scissors
-task,Nip-fab
-task,Oil cleanser
-task,Foaming cleanser
-task,Mini deodorant
-task,Floss
-section,Miscellaneous
-task,Passport
-task,Glasses cloth
-task,Notebook
-task,Pen
-task,Handkerchief
+TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+section,Pre-travel,4
+task,Wash dishes,4
+task,Eat perishable food,4
+task,Put boiler on frost mode,4
+task,Download area on google maps,4
+task,Decide whether you need a local data sim,4
+section,Clothes,4
+task,Underwear,4
+task,Socks,4
+task,Trousers,4
+task,Shirts,4
+task,PJs,4
+task,Hat,4
+task,Gloves,4
+task,Scarf,4
+task,Sunglasses,4
+section,Electronics,4
+task,Laptop and charger,4
+task,Phone and charger,4
+task,Power bank,4
+task,Headphones,4
+section,Toiletries,4
+task,Nail clippers,4
+task,Tiny scissors,4
+task,Nip-fab,4
+task,Oil cleanser,4
+task,Foaming cleanser,4
+task,Mini deodorant,4
+task,Floss,4
+section,Miscellaneous,4
+task,Passport,4
+task,Glasses cloth,4
+task,Notebook,4
+task,Pen,4
+task,Handkerchief,4
