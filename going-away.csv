@@ -1,10 +1,11 @@
-TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
 section,Pre-travel,4
 task,Wash dishes,4
 task,Eat perishable food,4
 task,Put boiler on frost mode,4
 task,Download area on google maps,4
 task,Decide whether you need a local data sim,4
+task,Water plants,4
 section,Clothes,4
 task,Underwear,4
 task,Socks,4
@@ -28,9 +29,11 @@ task,Oil cleanser,4
 task,Foaming cleanser,4
 task,Mini deodorant,4
 task,Floss,4
+task,Cough sweets,4
 section,Miscellaneous,4
 task,Passport,4
 task,Glasses cloth,4
 task,Notebook,4
 task,Pen,4
 task,Handkerchief,4
+task,Gifts for people, 4
