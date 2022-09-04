@@ -23,6 +23,7 @@ task,Laptop and charger,4
 task,Phone and charger,4
 task,Power bank,4
 task,Headphones,4
+task,Travel adapter,4
 section,Toiletries,4
 task,Cough sweets,4
 task,Deodorant,4
@@ -36,7 +37,11 @@ task,Shaving razors,4
 task,Sticky pokey,4
 task,Sunscreen,4
 task,Tiny scissors,4
+task,Hydrocolloid patches,4
+task,Nizoral,4
 section,Miscellaneous,4
+task,Wedding ring,4
+task,Watch,4
 task,Passport,4
 task,Glasses cloth,4
 task,Notebook,4
