@@ -16,8 +16,8 @@ task,PJs,4
 task,Hat,4
 task,Gloves,4
 task,Scarf,4
-task,Sunglasses,4
 task,Waterproof,4
+task,Jumper,4
 section,Electronics,4
 task,Laptop and charger,4
 task,Phone and charger,4
@@ -30,10 +30,8 @@ task,Cough sweets,4
 task,Deodorant,4
 task,Toothbrush,4
 task,Floss,4
-task,Foaming cleanser,4
 task,Nail clippers,4
-task,Nip-fab,4
-task,Oil cleanser,4
+task,Pads,4
 task,Shaving razors,4
 task,Sticky pokey,4
 task,Sunscreen,4
@@ -56,5 +54,7 @@ task,Tote bag,4
 task,Vaccination proof,4
 task,Visa,4
 task,Watch,4
-task,Water bottle,4
 task,Wedding ring,4
+section,Car stuff,4
+task,Sunglasses,4
+task,Water bottle,4
