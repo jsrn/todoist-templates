@@ -3,8 +3,8 @@ section,Pre-travel,4
 task,Wash dishes,4
 task,Eat perishable food,4
 task,Put boiler on frost mode,4
-task,Download area on google maps,4
-task,Decide whether you need a local data sim,4
+task,Download area on Google maps,4
+task,Decide whether you need a local data SIM,4
 task,Water plants,4
 task,Take out bins,4
 section,Clothes,4
@@ -24,7 +24,6 @@ task,Phone and charger,4
 task,Power bank,4
 task,Headphones,4
 task,Travel adapter,4
-task,Yubikey,4
 section,Toiletries,4
 task,Cough sweets,4
 task,Deodorant,4
@@ -47,10 +46,8 @@ task,Brucie,1
 task,Gifts for people,4
 task,Glasses cloth,4
 task,Handkerchief,4
-task,Notebook,4
-task,Orange journal,4
+task,Notebook and pen,4
 task,Passport,4
-task,Pen,4
 task,Tea,4
 task,Tote bag,4
 task,Travel pillow,4
