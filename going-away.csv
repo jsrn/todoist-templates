@@ -4,7 +4,7 @@ task,Wash dishes,4
 task,Eat perishable food,4
 task,Put boiler on frost mode,4
 task,Download area on Google maps,4
-task,Decide whether you need a local data SIM,4
+task,Local data SIM,4
 task,Water plants,4
 task,Take out bins,4
 section,Clothes,4
@@ -44,6 +44,7 @@ section,Miscellaneous,4
 task,Aeropress,4
 task,Appropriate wallet for cash-heavy destination,4
 task,Bag for dirty laundry,4
+task,Books,4
 task,Brucie,1
 task,Gifts for people,4
 task,Glasses cloth,4
@@ -52,8 +53,6 @@ task,Notebook and pen,4
 task,Passport,4
 task,Tea,4
 task,Tote bag,4
-task,Travel pillow,4
-task,Vaccination proof,4
 task,Visa,4
 task,Watch,4
 task,Wedding ring,4
